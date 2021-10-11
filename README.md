@@ -1,6 +1,9 @@
 👋 Hi, I’m @fikrighifari
+
 🌱 I’m currently learning Flutter, Svelte and Laravel
+
 💞️ I’m looking to collaboration
+
 📫 Hit me on fikriakbarghifari@gmail.com
 
 <!---
